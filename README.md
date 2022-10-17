@@ -54,4 +54,4 @@ like this(URL:https://www.youtube.com/c/JavaScriptMastery ) or like this(URL:htt
 <p>Thank you for reading. And happy coding!!</p>
 
 <h1>Additional information:</h1> 
-<p>I am Japanese and I can not use English perfectly.<br>So, I had some silly mistakes in the sentence probably.<br> If you meet unnatural expression or can not understand phrase, please tell me or just ignored)</p>
+<p>I am Japanese and I can not use English perfectly.<br>So, I had some silly mistakes in the sentence probably.<br> If you meet unnatural expression or can not understand phrase, please tell me or just ignored</p>
